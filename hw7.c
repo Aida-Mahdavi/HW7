@@ -1,6 +1,6 @@
 /*specifiedhw 1.7- Basic Programming Fall 2023- Group 6- Aida Mahdavi:40223078
 Task-> Write a program which takes a letter n, followed by n words depicted to languages 1&2;
-|_Then reads a phrase containing only letters from language 1 and converts in to language 2;
+|_Then reads a phrase containing only letters from language 1 and converts in to language 2.
 */
 #include<stdio.h>
 #include<string.h>
